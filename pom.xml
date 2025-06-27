@@ -19,7 +19,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <filterModified>true</filterModified>
         <mockito.version>2.27.0</mockito.version>
-        <jackson.version>2.9.10</jackson.version>
+        <jackson.version>2.15.0</jackson.version>
         <jackson-databind.version>2.9.10.5</jackson-databind.version>
         <okhttp.version>3.14.1</okhttp.version>
         <assertj.version>3.11.1</assertj.version>
